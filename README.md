@@ -1,0 +1,2 @@
+# swipe-maps-nightlight
+In this repo, I will show you how to make before/after swipe maps of nighttime lights using shiny in R. We will use the VIIRS data from the Earth Observation Group (EOG) to create the swipe maps of Ukraine's nighttime lights before and after the onset of war in 2022. 
